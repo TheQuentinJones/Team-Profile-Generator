@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-
+![GitHub](https://img.shields.io/github/license/TheQuentinJones/Team-Profile-Generator)
 
   ## Description
           
