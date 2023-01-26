@@ -59,7 +59,7 @@ function generatePageTemp(teamMembers) {
         <title>Team Members</title>
     </head>
     <body>
-      <section  class="hero is-primary">
+      <section  class="hero is-primary has-text-centered">
         <div class="hero-body">
           <p class="title is-1">
             Team Members!
@@ -91,7 +91,13 @@ function generatePageTemp(teamMembers) {
 
 
       </section>
-         
+        <footer class="footer">
+            <div class="content has-text-centered">
+                <p>
+                    Thank you for viewing my site!
+                </p>
+            </div>
+        </footer>   
                
     </body>
     </html>`
