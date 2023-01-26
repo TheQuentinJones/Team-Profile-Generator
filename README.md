@@ -28,6 +28,10 @@
 
   This program is used by using the "node index.js" command. Once that is done, then one will follow the prompts in order to enter all information necessary about their team. Once they are done entering information about their team, then a webpage will be created that includes all of the information they input.
 
+  You can view a quick tutorial here:
+
+  https://drive.google.com/file/d/1DTxnGsOBEsP1mpWmFIytQ4OFWCAkZDZ_/view
+
   ## License
 
   MIT License
